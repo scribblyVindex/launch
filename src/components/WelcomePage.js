@@ -54,12 +54,12 @@ useEffect(() => {
               /></div>
               <h className=" font-medium col-span-4  text-center font-semiold text-blue-900 col-start-3 pt-10 text-5xl ">
                 Guru Ghasidas Vishwavidyalaya, Bilaspur
-              <p className=" font-medium  font-semiold text-blue-900  text-lg ">
+              <p className=" font-medium  font-semiold text-blue-900 mt-4 text-lg ">
               A Central University established by the Central University Act 2009 No. 25 of 2009
               </p>
               </h>
               <h className=" font-medium row-span-1 row-start-3 col-span-5 col-start-2  text-center font-semiold text-blue-700  text-5xl ">Internal Quality Assurance Cell (IQAC)
-              <p className='text-2xl text-blue-900 mt-6'>SSR and AQAR data capturing system.</p>
+              <p className='text-2xl text-blue-900 mt-8'>SSR and AQAR data capturing system.</p>
               </h>
               <button onClick={fun} className="mt-4 font-bold row-span-1 bg-white text-blue-900 row-start-4 col-span-5 col-start-2  text-center font-semiold  h-20 w-4/6 transition delay-100 duration-300 ease-in-out border-gray-300 border hover:border-gray-300 hover:border-2 shadow-lg shadow-gray-400 hover:bg-green-500 hover:text-white hover:animate-bounce rounded-md text-5xl ">INAUGURATE!</button>
               {/* <h1 className=" font-medium  text-grey-100 mb-6   text-5xl">IQAC-Portal</h1> */}

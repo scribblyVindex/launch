@@ -28,11 +28,11 @@ useEffect(() => {
 
     
     <>
-    {c&&<Confetti
+    {/* {c&&<Confetti
       width={width}
       height={height}
       
-    />}
+    />} */}
       {
         <div
           // style={{ background: "#B4322E" }}
@@ -61,7 +61,7 @@ useEffect(() => {
               <h className=" font-medium row-span-1 row-start-3 col-span-5 col-start-2  text-center font-semiold text-blue-700  text-5xl ">Internal Quality Assurance Cell (IQAC)
               <p className='text-2xl text-blue-900 mt-6'>SSR and AQAR data capturing system.</p>
               </h>
-              <button onClick={fun} className="mt-4 font-bold row-span-1 bg-white text-blue-900 row-start-4 col-span-5 col-start-2  text-center font-semiold  h-20 w-4/6 transition delay-100 duration-300 ease-in-out border-gray-300 border hover:border-gray-300 hover:border-2 shadow-lg shadow-gray-400 hover:bg-green-500 hover:text-white hover:animate-bounce rounded-md text-5xl ">LAUNCH!</button>
+              <button onClick={fun} className="mt-4 font-bold row-span-1 bg-white text-blue-900 row-start-4 col-span-5 col-start-2  text-center font-semiold  h-20 w-4/6 transition delay-100 duration-300 ease-in-out border-gray-300 border hover:border-gray-300 hover:border-2 shadow-lg shadow-gray-400 hover:bg-green-500 hover:text-white hover:animate-bounce rounded-md text-5xl ">INAUGURATE!</button>
               {/* <h1 className=" font-medium  text-grey-100 mb-6   text-5xl">IQAC-Portal</h1> */}
               {/* <Link
                 to="/developmentTeam"

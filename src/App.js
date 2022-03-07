@@ -1,11 +1,9 @@
 
 import './App.css';
 
-import WordState from './context/WordState';
-import WordRace from './components/WordRace';
+
 import { Routes, Route, BrowserRouter,  } from "react-router-dom";
-import Login from './components/Login';
-import Home from './components/Home';
+
 import Curtain from './components/curtain';
 
 function App() {
